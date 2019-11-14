@@ -1,0 +1,67 @@
+.wan{
+	text-align: right;
+}
+
+.jumbo {
+	padding: 8em;
+}
+
+.hnav ul{
+	list-style-type: none;
+	margin-right: 10px;
+	padding: 0;
+	overflow: hidden;
+	text-align: right;
+}
+
+.hnavi {
+	display: inline-block;
+}
+
+.ctext p {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: auto;
+}
+.searchbar{
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.bttn {
+	display: block;
+	padding: 10px 12px;
+	margin-top: 12px;
+}
+
+.area-of {
+	background: #d3d3d3;
+}
+
+.footer-bar {
+	background: #d3d3d3;
+}
+
+.footer-bar ul {
+	list-style-type: none;
+	margin-left: 0;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	bottom: 0;
+}
+.footer-bar li {
+	display: inline-block;
+	margin-right: 5px;
+}
+.right-links {
+	list-style-type: none;
+	float: right;
+}
+
+
